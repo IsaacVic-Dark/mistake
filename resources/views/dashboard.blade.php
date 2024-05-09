@@ -16,7 +16,7 @@
     </div>
     <div class="container">
         <div class="flex justify-content-center text-center">
-            <h1>Congratualtions you created a mistake</h1>
+            <h1>Congratualtions</h1>
         </div>
     </div>
 </x-app-layout>
